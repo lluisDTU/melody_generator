@@ -11,18 +11,16 @@ These instructions will help you set up the project and run it on your local mac
 - Python 3.7 or higher
 - Install required Python packages:
 
-\```bash
 pip install -r requirements.txt
-\```
+
 
 ### Usage
 
 1. Place the input MIDI melody file (e.g., `Melody.mid`) in the project directory.
 2. Run the script `generate_melody.py`:
 
-\```bash
+
 python generate_melody.py
-\```
 
 3. The generated melody continuation will be saved as a new MIDI file (e.g., `new_melody.mid`) in the project directory.
 
