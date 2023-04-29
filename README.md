@@ -33,7 +33,3 @@ These instructions will help you set up the project and run it on your local mac
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The code in this repository is based on the suggestions and guidance provided by OpenAI's ChatGPT.
